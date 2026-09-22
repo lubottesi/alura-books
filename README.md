@@ -9,7 +9,7 @@ Built while practicing responsive layouts at Alura.
 ## Stack
 
 - HTML5
-- CSS3 — flexbox, grid, custom properties, BEM class naming
+- CSS3 - flexbox, grid, custom properties, BEM class naming
 - [Swiper](https://swiperjs.com/) 11 (via CDN) for the carousels
 - Google Fonts (Poppins, Josefin Sans)
 
@@ -17,7 +17,7 @@ Styles are mobile-first: the base rules target small screens, and `min-width` br
 
 ## Running locally
 
-No build step — open `index.html` in a browser, or serve the folder:
+No build step - open `index.html` in a browser, or serve the folder:
 
 ```bash
 python -m http.server 8000
